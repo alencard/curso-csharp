@@ -1,0 +1,15 @@
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\17-for\17-for\bin\Debug\net6.0\17-for.exe
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\17-for\17-for\bin\Debug\net6.0\17-for.deps.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\17-for\17-for\bin\Debug\net6.0\17-for.runtimeconfig.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\17-for\17-for\bin\Debug\net6.0\17-for.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\17-for\17-for\bin\Debug\net6.0\17-for.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\17-for\17-for\obj\Debug\net6.0\17-for.csproj.AssemblyReference.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\17-for\17-for\obj\Debug\net6.0\17-for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\17-for\17-for\obj\Debug\net6.0\17-for.AssemblyInfoInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\17-for\17-for\obj\Debug\net6.0\17-for.AssemblyInfo.cs
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\17-for\17-for\obj\Debug\net6.0\17-for.csproj.CoreCompileInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\17-for\17-for\obj\Debug\net6.0\17-for.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\17-for\17-for\obj\Debug\net6.0\refint\17-for.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\17-for\17-for\obj\Debug\net6.0\17-for.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\17-for\17-for\obj\Debug\net6.0\17-for.genruntimeconfig.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\17-for\17-for\obj\Debug\net6.0\ref\17-for.dll
