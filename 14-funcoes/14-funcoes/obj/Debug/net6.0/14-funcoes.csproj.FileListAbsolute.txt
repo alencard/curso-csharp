@@ -1,0 +1,15 @@
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\14-funcoes\14-funcoes\bin\Debug\net6.0\14-funcoes.exe
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\14-funcoes\14-funcoes\bin\Debug\net6.0\14-funcoes.deps.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\14-funcoes\14-funcoes\bin\Debug\net6.0\14-funcoes.runtimeconfig.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\14-funcoes\14-funcoes\bin\Debug\net6.0\14-funcoes.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\14-funcoes\14-funcoes\bin\Debug\net6.0\14-funcoes.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\14-funcoes\14-funcoes\obj\Debug\net6.0\14-funcoes.csproj.AssemblyReference.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\14-funcoes\14-funcoes\obj\Debug\net6.0\14-funcoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\14-funcoes\14-funcoes\obj\Debug\net6.0\14-funcoes.AssemblyInfoInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\14-funcoes\14-funcoes\obj\Debug\net6.0\14-funcoes.AssemblyInfo.cs
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\14-funcoes\14-funcoes\obj\Debug\net6.0\14-funcoes.csproj.CoreCompileInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\14-funcoes\14-funcoes\obj\Debug\net6.0\14-funcoes.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\14-funcoes\14-funcoes\obj\Debug\net6.0\refint\14-funcoes.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\14-funcoes\14-funcoes\obj\Debug\net6.0\14-funcoes.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\14-funcoes\14-funcoes\obj\Debug\net6.0\14-funcoes.genruntimeconfig.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\14-funcoes\14-funcoes\obj\Debug\net6.0\ref\14-funcoes.dll
