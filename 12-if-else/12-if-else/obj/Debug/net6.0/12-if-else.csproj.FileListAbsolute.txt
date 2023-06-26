@@ -1,0 +1,15 @@
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\12-if-else\12-if-else\bin\Debug\net6.0\12-if-else.exe
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\12-if-else\12-if-else\bin\Debug\net6.0\12-if-else.deps.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\12-if-else\12-if-else\bin\Debug\net6.0\12-if-else.runtimeconfig.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\12-if-else\12-if-else\bin\Debug\net6.0\12-if-else.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\12-if-else\12-if-else\bin\Debug\net6.0\12-if-else.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\12-if-else\12-if-else\obj\Debug\net6.0\12-if-else.csproj.AssemblyReference.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\12-if-else\12-if-else\obj\Debug\net6.0\12-if-else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\12-if-else\12-if-else\obj\Debug\net6.0\12-if-else.AssemblyInfoInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\12-if-else\12-if-else\obj\Debug\net6.0\12-if-else.AssemblyInfo.cs
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\12-if-else\12-if-else\obj\Debug\net6.0\12-if-else.csproj.CoreCompileInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\12-if-else\12-if-else\obj\Debug\net6.0\12-if-else.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\12-if-else\12-if-else\obj\Debug\net6.0\refint\12-if-else.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\12-if-else\12-if-else\obj\Debug\net6.0\12-if-else.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\12-if-else\12-if-else\obj\Debug\net6.0\12-if-else.genruntimeconfig.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\12-if-else\12-if-else\obj\Debug\net6.0\ref\12-if-else.dll

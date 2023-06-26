@@ -1,0 +1,15 @@
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\11-operadores-comparativos\11-operadores-comparativos\bin\Debug\net6.0\11-operadores-comparativos.exe
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\11-operadores-comparativos\11-operadores-comparativos\bin\Debug\net6.0\11-operadores-comparativos.deps.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\11-operadores-comparativos\11-operadores-comparativos\bin\Debug\net6.0\11-operadores-comparativos.runtimeconfig.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\11-operadores-comparativos\11-operadores-comparativos\bin\Debug\net6.0\11-operadores-comparativos.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\11-operadores-comparativos\11-operadores-comparativos\bin\Debug\net6.0\11-operadores-comparativos.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\11-operadores-comparativos\11-operadores-comparativos\obj\Debug\net6.0\11-operadores-comparativos.csproj.AssemblyReference.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\11-operadores-comparativos\11-operadores-comparativos\obj\Debug\net6.0\11-operadores-comparativos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\11-operadores-comparativos\11-operadores-comparativos\obj\Debug\net6.0\11-operadores-comparativos.AssemblyInfoInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\11-operadores-comparativos\11-operadores-comparativos\obj\Debug\net6.0\11-operadores-comparativos.AssemblyInfo.cs
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\11-operadores-comparativos\11-operadores-comparativos\obj\Debug\net6.0\11-operadores-comparativos.csproj.CoreCompileInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\11-operadores-comparativos\11-operadores-comparativos\obj\Debug\net6.0\11-operadores-comparativos.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\11-operadores-comparativos\11-operadores-comparativos\obj\Debug\net6.0\refint\11-operadores-comparativos.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\11-operadores-comparativos\11-operadores-comparativos\obj\Debug\net6.0\11-operadores-comparativos.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\11-operadores-comparativos\11-operadores-comparativos\obj\Debug\net6.0\11-operadores-comparativos.genruntimeconfig.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\11-operadores-comparativos\11-operadores-comparativos\obj\Debug\net6.0\ref\11-operadores-comparativos.dll
