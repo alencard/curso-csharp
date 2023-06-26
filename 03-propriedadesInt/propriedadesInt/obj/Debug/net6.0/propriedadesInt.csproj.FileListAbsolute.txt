@@ -1,0 +1,15 @@
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\03-propriedadesInt\propriedadesInt\obj\Debug\net6.0\propriedadesInt.csproj.AssemblyReference.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\03-propriedadesInt\propriedadesInt\obj\Debug\net6.0\propriedadesInt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\03-propriedadesInt\propriedadesInt\obj\Debug\net6.0\propriedadesInt.AssemblyInfoInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\03-propriedadesInt\propriedadesInt\obj\Debug\net6.0\propriedadesInt.AssemblyInfo.cs
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\03-propriedadesInt\propriedadesInt\obj\Debug\net6.0\propriedadesInt.csproj.CoreCompileInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\03-propriedadesInt\propriedadesInt\bin\Debug\net6.0\propriedadesInt.exe
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\03-propriedadesInt\propriedadesInt\bin\Debug\net6.0\propriedadesInt.deps.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\03-propriedadesInt\propriedadesInt\bin\Debug\net6.0\propriedadesInt.runtimeconfig.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\03-propriedadesInt\propriedadesInt\bin\Debug\net6.0\propriedadesInt.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\03-propriedadesInt\propriedadesInt\bin\Debug\net6.0\propriedadesInt.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\03-propriedadesInt\propriedadesInt\obj\Debug\net6.0\propriedadesInt.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\03-propriedadesInt\propriedadesInt\obj\Debug\net6.0\refint\propriedadesInt.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\03-propriedadesInt\propriedadesInt\obj\Debug\net6.0\propriedadesInt.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\03-propriedadesInt\propriedadesInt\obj\Debug\net6.0\propriedadesInt.genruntimeconfig.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\03-propriedadesInt\propriedadesInt\obj\Debug\net6.0\ref\propriedadesInt.dll
