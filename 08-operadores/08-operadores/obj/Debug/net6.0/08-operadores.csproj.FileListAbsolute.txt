@@ -1,0 +1,15 @@
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\08-operadores\08-operadores\bin\Debug\net6.0\08-operadores.exe
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\08-operadores\08-operadores\bin\Debug\net6.0\08-operadores.deps.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\08-operadores\08-operadores\bin\Debug\net6.0\08-operadores.runtimeconfig.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\08-operadores\08-operadores\bin\Debug\net6.0\08-operadores.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\08-operadores\08-operadores\bin\Debug\net6.0\08-operadores.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\08-operadores\08-operadores\obj\Debug\net6.0\08-operadores.csproj.AssemblyReference.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\08-operadores\08-operadores\obj\Debug\net6.0\08-operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\08-operadores\08-operadores\obj\Debug\net6.0\08-operadores.AssemblyInfoInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\08-operadores\08-operadores\obj\Debug\net6.0\08-operadores.AssemblyInfo.cs
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\08-operadores\08-operadores\obj\Debug\net6.0\08-operadores.csproj.CoreCompileInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\08-operadores\08-operadores\obj\Debug\net6.0\08-operadores.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\08-operadores\08-operadores\obj\Debug\net6.0\refint\08-operadores.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\08-operadores\08-operadores\obj\Debug\net6.0\08-operadores.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\08-operadores\08-operadores\obj\Debug\net6.0\08-operadores.genruntimeconfig.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\08-operadores\08-operadores\obj\Debug\net6.0\ref\08-operadores.dll
