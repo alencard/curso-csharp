@@ -1,0 +1,15 @@
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\atribuicoes\atribuicoes\bin\Debug\net6.0\atribuicoes.exe
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\atribuicoes\atribuicoes\bin\Debug\net6.0\atribuicoes.deps.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\atribuicoes\atribuicoes\bin\Debug\net6.0\atribuicoes.runtimeconfig.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\atribuicoes\atribuicoes\bin\Debug\net6.0\atribuicoes.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\atribuicoes\atribuicoes\bin\Debug\net6.0\atribuicoes.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\atribuicoes\atribuicoes\obj\Debug\net6.0\atribuicoes.csproj.AssemblyReference.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\atribuicoes\atribuicoes\obj\Debug\net6.0\atribuicoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\atribuicoes\atribuicoes\obj\Debug\net6.0\atribuicoes.AssemblyInfoInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\atribuicoes\atribuicoes\obj\Debug\net6.0\atribuicoes.AssemblyInfo.cs
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\atribuicoes\atribuicoes\obj\Debug\net6.0\atribuicoes.csproj.CoreCompileInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\atribuicoes\atribuicoes\obj\Debug\net6.0\atribuicoes.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\atribuicoes\atribuicoes\obj\Debug\net6.0\refint\atribuicoes.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\atribuicoes\atribuicoes\obj\Debug\net6.0\atribuicoes.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\atribuicoes\atribuicoes\obj\Debug\net6.0\atribuicoes.genruntimeconfig.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\atribuicoes\atribuicoes\obj\Debug\net6.0\ref\atribuicoes.dll
