@@ -1,0 +1,15 @@
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\19-orientacao-a-objetos\19-orientacao-a-objetos\bin\Debug\net6.0\19-orientacao-a-objetos.exe
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\19-orientacao-a-objetos\19-orientacao-a-objetos\bin\Debug\net6.0\19-orientacao-a-objetos.deps.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\19-orientacao-a-objetos\19-orientacao-a-objetos\bin\Debug\net6.0\19-orientacao-a-objetos.runtimeconfig.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\19-orientacao-a-objetos\19-orientacao-a-objetos\bin\Debug\net6.0\19-orientacao-a-objetos.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\19-orientacao-a-objetos\19-orientacao-a-objetos\bin\Debug\net6.0\19-orientacao-a-objetos.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\19-orientacao-a-objetos\19-orientacao-a-objetos\obj\Debug\net6.0\19-orientacao-a-objetos.csproj.AssemblyReference.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\19-orientacao-a-objetos\19-orientacao-a-objetos\obj\Debug\net6.0\19-orientacao-a-objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\19-orientacao-a-objetos\19-orientacao-a-objetos\obj\Debug\net6.0\19-orientacao-a-objetos.AssemblyInfoInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\19-orientacao-a-objetos\19-orientacao-a-objetos\obj\Debug\net6.0\19-orientacao-a-objetos.AssemblyInfo.cs
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\19-orientacao-a-objetos\19-orientacao-a-objetos\obj\Debug\net6.0\19-orientacao-a-objetos.csproj.CoreCompileInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\19-orientacao-a-objetos\19-orientacao-a-objetos\obj\Debug\net6.0\19-orientacao-a-objetos.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\19-orientacao-a-objetos\19-orientacao-a-objetos\obj\Debug\net6.0\refint\19-orientacao-a-objetos.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\19-orientacao-a-objetos\19-orientacao-a-objetos\obj\Debug\net6.0\19-orientacao-a-objetos.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\19-orientacao-a-objetos\19-orientacao-a-objetos\obj\Debug\net6.0\19-orientacao-a-objetos.genruntimeconfig.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\19-orientacao-a-objetos\19-orientacao-a-objetos\obj\Debug\net6.0\ref\19-orientacao-a-objetos.dll

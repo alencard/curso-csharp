@@ -1,0 +1,15 @@
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\21-metodos\21-metodos\bin\Debug\net6.0\21-metodos.exe
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\21-metodos\21-metodos\bin\Debug\net6.0\21-metodos.deps.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\21-metodos\21-metodos\bin\Debug\net6.0\21-metodos.runtimeconfig.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\21-metodos\21-metodos\bin\Debug\net6.0\21-metodos.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\21-metodos\21-metodos\bin\Debug\net6.0\21-metodos.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\21-metodos\21-metodos\obj\Debug\net6.0\21-metodos.csproj.AssemblyReference.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\21-metodos\21-metodos\obj\Debug\net6.0\21-metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\21-metodos\21-metodos\obj\Debug\net6.0\21-metodos.AssemblyInfoInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\21-metodos\21-metodos\obj\Debug\net6.0\21-metodos.AssemblyInfo.cs
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\21-metodos\21-metodos\obj\Debug\net6.0\21-metodos.csproj.CoreCompileInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\21-metodos\21-metodos\obj\Debug\net6.0\21-metodos.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\21-metodos\21-metodos\obj\Debug\net6.0\refint\21-metodos.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\21-metodos\21-metodos\obj\Debug\net6.0\21-metodos.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\21-metodos\21-metodos\obj\Debug\net6.0\21-metodos.genruntimeconfig.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\21-metodos\21-metodos\obj\Debug\net6.0\ref\21-metodos.dll
