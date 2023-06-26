@@ -1,0 +1,15 @@
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\22-problema-exemplo\22-problema-exemplo\bin\Debug\net6.0\22-problema-exemplo.exe
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\22-problema-exemplo\22-problema-exemplo\bin\Debug\net6.0\22-problema-exemplo.deps.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\22-problema-exemplo\22-problema-exemplo\bin\Debug\net6.0\22-problema-exemplo.runtimeconfig.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\22-problema-exemplo\22-problema-exemplo\bin\Debug\net6.0\22-problema-exemplo.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\22-problema-exemplo\22-problema-exemplo\bin\Debug\net6.0\22-problema-exemplo.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\22-problema-exemplo\22-problema-exemplo\obj\Debug\net6.0\22-problema-exemplo.csproj.AssemblyReference.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\22-problema-exemplo\22-problema-exemplo\obj\Debug\net6.0\22-problema-exemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\22-problema-exemplo\22-problema-exemplo\obj\Debug\net6.0\22-problema-exemplo.AssemblyInfoInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\22-problema-exemplo\22-problema-exemplo\obj\Debug\net6.0\22-problema-exemplo.AssemblyInfo.cs
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\22-problema-exemplo\22-problema-exemplo\obj\Debug\net6.0\22-problema-exemplo.csproj.CoreCompileInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\22-problema-exemplo\22-problema-exemplo\obj\Debug\net6.0\22-problema-exemplo.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\22-problema-exemplo\22-problema-exemplo\obj\Debug\net6.0\refint\22-problema-exemplo.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\22-problema-exemplo\22-problema-exemplo\obj\Debug\net6.0\22-problema-exemplo.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\22-problema-exemplo\22-problema-exemplo\obj\Debug\net6.0\22-problema-exemplo.genruntimeconfig.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\22-problema-exemplo\22-problema-exemplo\obj\Debug\net6.0\ref\22-problema-exemplo.dll

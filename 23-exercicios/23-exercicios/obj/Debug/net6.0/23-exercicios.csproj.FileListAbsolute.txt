@@ -1,0 +1,15 @@
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\23-exercicios\23-exercicios\bin\Debug\net6.0\23-exercicios.exe
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\23-exercicios\23-exercicios\bin\Debug\net6.0\23-exercicios.deps.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\23-exercicios\23-exercicios\bin\Debug\net6.0\23-exercicios.runtimeconfig.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\23-exercicios\23-exercicios\bin\Debug\net6.0\23-exercicios.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\23-exercicios\23-exercicios\bin\Debug\net6.0\23-exercicios.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\23-exercicios\23-exercicios\obj\Debug\net6.0\23-exercicios.csproj.AssemblyReference.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\23-exercicios\23-exercicios\obj\Debug\net6.0\23-exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\23-exercicios\23-exercicios\obj\Debug\net6.0\23-exercicios.AssemblyInfoInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\23-exercicios\23-exercicios\obj\Debug\net6.0\23-exercicios.AssemblyInfo.cs
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\23-exercicios\23-exercicios\obj\Debug\net6.0\23-exercicios.csproj.CoreCompileInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\23-exercicios\23-exercicios\obj\Debug\net6.0\23-exercicios.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\23-exercicios\23-exercicios\obj\Debug\net6.0\refint\23-exercicios.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\23-exercicios\23-exercicios\obj\Debug\net6.0\23-exercicios.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\23-exercicios\23-exercicios\obj\Debug\net6.0\23-exercicios.genruntimeconfig.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\23-exercicios\23-exercicios\obj\Debug\net6.0\ref\23-exercicios.dll
