@@ -1,0 +1,15 @@
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\29_encapsulamento\bin\Debug\net6.0\29_encapsulamento.exe
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\29_encapsulamento\bin\Debug\net6.0\29_encapsulamento.deps.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\29_encapsulamento\bin\Debug\net6.0\29_encapsulamento.runtimeconfig.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\29_encapsulamento\bin\Debug\net6.0\29_encapsulamento.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\29_encapsulamento\bin\Debug\net6.0\29_encapsulamento.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\29_encapsulamento\obj\Debug\net6.0\29_encapsulamento.csproj.AssemblyReference.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\29_encapsulamento\obj\Debug\net6.0\29_encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\29_encapsulamento\obj\Debug\net6.0\29_encapsulamento.AssemblyInfoInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\29_encapsulamento\obj\Debug\net6.0\29_encapsulamento.AssemblyInfo.cs
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\29_encapsulamento\obj\Debug\net6.0\29_encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\29_encapsulamento\obj\Debug\net6.0\29_encapsulamento.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\29_encapsulamento\obj\Debug\net6.0\refint\29_encapsulamento.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\29_encapsulamento\obj\Debug\net6.0\29_encapsulamento.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\29_encapsulamento\obj\Debug\net6.0\29_encapsulamento.genruntimeconfig.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\29_encapsulamento\obj\Debug\net6.0\ref\29_encapsulamento.dll

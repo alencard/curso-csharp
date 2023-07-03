@@ -1,0 +1,15 @@
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\30_properties\bin\Debug\net6.0\30_properties.exe
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\30_properties\bin\Debug\net6.0\30_properties.deps.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\30_properties\bin\Debug\net6.0\30_properties.runtimeconfig.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\30_properties\bin\Debug\net6.0\30_properties.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\30_properties\bin\Debug\net6.0\30_properties.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\30_properties\obj\Debug\net6.0\30_properties.csproj.AssemblyReference.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\30_properties\obj\Debug\net6.0\30_properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\30_properties\obj\Debug\net6.0\30_properties.AssemblyInfoInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\30_properties\obj\Debug\net6.0\30_properties.AssemblyInfo.cs
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\30_properties\obj\Debug\net6.0\30_properties.csproj.CoreCompileInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\30_properties\obj\Debug\net6.0\30_properties.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\30_properties\obj\Debug\net6.0\refint\30_properties.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\30_properties\obj\Debug\net6.0\30_properties.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\30_properties\obj\Debug\net6.0\30_properties.genruntimeconfig.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\30_properties\obj\Debug\net6.0\ref\30_properties.dll
