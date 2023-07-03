@@ -1,0 +1,15 @@
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\33_copy\bin\Debug\net6.0\33_tipos.exe
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\33_copy\bin\Debug\net6.0\33_tipos.deps.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\33_copy\bin\Debug\net6.0\33_tipos.runtimeconfig.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\33_copy\bin\Debug\net6.0\33_tipos.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\33_copy\bin\Debug\net6.0\33_tipos.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\33_copy\obj\Debug\net6.0\33_tipos.csproj.AssemblyReference.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\33_copy\obj\Debug\net6.0\33_tipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\33_copy\obj\Debug\net6.0\33_tipos.AssemblyInfoInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\33_copy\obj\Debug\net6.0\33_tipos.AssemblyInfo.cs
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\33_copy\obj\Debug\net6.0\33_tipos.csproj.CoreCompileInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\33_copy\obj\Debug\net6.0\33_tipos.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\33_copy\obj\Debug\net6.0\refint\33_tipos.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\33_copy\obj\Debug\net6.0\33_tipos.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\33_copy\obj\Debug\net6.0\33_tipos.genruntimeconfig.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\33_copy\obj\Debug\net6.0\ref\33_tipos.dll

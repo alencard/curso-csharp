@@ -1,0 +1,15 @@
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\34_desalocacao\bin\Debug\net6.0\34_desalocacao.exe
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\34_desalocacao\bin\Debug\net6.0\34_desalocacao.deps.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\34_desalocacao\bin\Debug\net6.0\34_desalocacao.runtimeconfig.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\34_desalocacao\bin\Debug\net6.0\34_desalocacao.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\34_desalocacao\bin\Debug\net6.0\34_desalocacao.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\34_desalocacao\obj\Debug\net6.0\34_desalocacao.csproj.AssemblyReference.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\34_desalocacao\obj\Debug\net6.0\34_desalocacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\34_desalocacao\obj\Debug\net6.0\34_desalocacao.AssemblyInfoInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\34_desalocacao\obj\Debug\net6.0\34_desalocacao.AssemblyInfo.cs
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\34_desalocacao\obj\Debug\net6.0\34_desalocacao.csproj.CoreCompileInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\34_desalocacao\obj\Debug\net6.0\34_desalocacao.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\34_desalocacao\obj\Debug\net6.0\refint\34_desalocacao.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\34_desalocacao\obj\Debug\net6.0\34_desalocacao.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\34_desalocacao\obj\Debug\net6.0\34_desalocacao.genruntimeconfig.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\34_desalocacao\obj\Debug\net6.0\ref\34_desalocacao.dll
