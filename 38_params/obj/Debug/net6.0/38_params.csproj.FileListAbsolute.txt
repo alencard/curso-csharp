@@ -1,0 +1,15 @@
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\38_params\bin\Debug\net6.0\38_params.exe
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\38_params\bin\Debug\net6.0\38_params.deps.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\38_params\bin\Debug\net6.0\38_params.runtimeconfig.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\38_params\bin\Debug\net6.0\38_params.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\38_params\bin\Debug\net6.0\38_params.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\38_params\obj\Debug\net6.0\38_params.csproj.AssemblyReference.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\38_params\obj\Debug\net6.0\38_params.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\38_params\obj\Debug\net6.0\38_params.AssemblyInfoInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\38_params\obj\Debug\net6.0\38_params.AssemblyInfo.cs
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\38_params\obj\Debug\net6.0\38_params.csproj.CoreCompileInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\38_params\obj\Debug\net6.0\38_params.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\38_params\obj\Debug\net6.0\refint\38_params.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\38_params\obj\Debug\net6.0\38_params.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\38_params\obj\Debug\net6.0\38_params.genruntimeconfig.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\38_params\obj\Debug\net6.0\ref\38_params.dll

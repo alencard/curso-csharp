@@ -1,0 +1,15 @@
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\39_ref_out\bin\Debug\net6.0\39_ref_out.exe
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\39_ref_out\bin\Debug\net6.0\39_ref_out.deps.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\39_ref_out\bin\Debug\net6.0\39_ref_out.runtimeconfig.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\39_ref_out\bin\Debug\net6.0\39_ref_out.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\39_ref_out\bin\Debug\net6.0\39_ref_out.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\39_ref_out\obj\Debug\net6.0\39_ref_out.csproj.AssemblyReference.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\39_ref_out\obj\Debug\net6.0\39_ref_out.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\39_ref_out\obj\Debug\net6.0\39_ref_out.AssemblyInfoInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\39_ref_out\obj\Debug\net6.0\39_ref_out.AssemblyInfo.cs
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\39_ref_out\obj\Debug\net6.0\39_ref_out.csproj.CoreCompileInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\39_ref_out\obj\Debug\net6.0\39_ref_out.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\39_ref_out\obj\Debug\net6.0\refint\39_ref_out.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\39_ref_out\obj\Debug\net6.0\39_ref_out.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\39_ref_out\obj\Debug\net6.0\39_ref_out.genruntimeconfig.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\39_ref_out\obj\Debug\net6.0\ref\39_ref_out.dll
