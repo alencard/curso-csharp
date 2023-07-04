@@ -1,0 +1,15 @@
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\36_vetores\bin\Debug\net6.0\36_vetores.exe
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\36_vetores\bin\Debug\net6.0\36_vetores.deps.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\36_vetores\bin\Debug\net6.0\36_vetores.runtimeconfig.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\36_vetores\bin\Debug\net6.0\36_vetores.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\36_vetores\bin\Debug\net6.0\36_vetores.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\36_vetores\obj\Debug\net6.0\36_vetores.csproj.AssemblyReference.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\36_vetores\obj\Debug\net6.0\36_vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\36_vetores\obj\Debug\net6.0\36_vetores.AssemblyInfoInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\36_vetores\obj\Debug\net6.0\36_vetores.AssemblyInfo.cs
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\36_vetores\obj\Debug\net6.0\36_vetores.csproj.CoreCompileInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\36_vetores\obj\Debug\net6.0\36_vetores.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\36_vetores\obj\Debug\net6.0\refint\36_vetores.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\36_vetores\obj\Debug\net6.0\36_vetores.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\36_vetores\obj\Debug\net6.0\36_vetores.genruntimeconfig.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\36_vetores\obj\Debug\net6.0\ref\36_vetores.dll

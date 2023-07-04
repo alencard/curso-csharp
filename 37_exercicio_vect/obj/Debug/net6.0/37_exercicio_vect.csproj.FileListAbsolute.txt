@@ -1,0 +1,15 @@
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\37_exercicio_vect\obj\Debug\net6.0\37_exercicio_vect.csproj.AssemblyReference.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\37_exercicio_vect\obj\Debug\net6.0\37_exercicio_vect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\37_exercicio_vect\obj\Debug\net6.0\37_exercicio_vect.AssemblyInfoInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\37_exercicio_vect\obj\Debug\net6.0\37_exercicio_vect.AssemblyInfo.cs
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\37_exercicio_vect\obj\Debug\net6.0\37_exercicio_vect.csproj.CoreCompileInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\37_exercicio_vect\bin\Debug\net6.0\37_exercicio_vect.exe
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\37_exercicio_vect\bin\Debug\net6.0\37_exercicio_vect.deps.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\37_exercicio_vect\bin\Debug\net6.0\37_exercicio_vect.runtimeconfig.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\37_exercicio_vect\bin\Debug\net6.0\37_exercicio_vect.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\37_exercicio_vect\bin\Debug\net6.0\37_exercicio_vect.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\37_exercicio_vect\obj\Debug\net6.0\37_exercicio_vect.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\37_exercicio_vect\obj\Debug\net6.0\refint\37_exercicio_vect.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\37_exercicio_vect\obj\Debug\net6.0\37_exercicio_vect.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\37_exercicio_vect\obj\Debug\net6.0\37_exercicio_vect.genruntimeconfig.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\37_exercicio_vect\obj\Debug\net6.0\ref\37_exercicio_vect.dll
