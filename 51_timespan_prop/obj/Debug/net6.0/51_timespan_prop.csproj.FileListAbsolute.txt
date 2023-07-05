@@ -1,0 +1,15 @@
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\51_timespan_prop\bin\Debug\net6.0\51_timespan_prop.exe
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\51_timespan_prop\bin\Debug\net6.0\51_timespan_prop.deps.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\51_timespan_prop\bin\Debug\net6.0\51_timespan_prop.runtimeconfig.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\51_timespan_prop\bin\Debug\net6.0\51_timespan_prop.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\51_timespan_prop\bin\Debug\net6.0\51_timespan_prop.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\51_timespan_prop\obj\Debug\net6.0\51_timespan_prop.csproj.AssemblyReference.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\51_timespan_prop\obj\Debug\net6.0\51_timespan_prop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\51_timespan_prop\obj\Debug\net6.0\51_timespan_prop.AssemblyInfoInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\51_timespan_prop\obj\Debug\net6.0\51_timespan_prop.AssemblyInfo.cs
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\51_timespan_prop\obj\Debug\net6.0\51_timespan_prop.csproj.CoreCompileInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\51_timespan_prop\obj\Debug\net6.0\51_timespan_prop.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\51_timespan_prop\obj\Debug\net6.0\refint\51_timespan_prop.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\51_timespan_prop\obj\Debug\net6.0\51_timespan_prop.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\51_timespan_prop\obj\Debug\net6.0\51_timespan_prop.genruntimeconfig.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\51_timespan_prop\obj\Debug\net6.0\ref\51_timespan_prop.dll

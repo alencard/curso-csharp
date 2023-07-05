@@ -1,0 +1,15 @@
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\47_string_funcs[\bin\Debug\net6.0\47_string_funcs.exe
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\47_string_funcs[\bin\Debug\net6.0\47_string_funcs.deps.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\47_string_funcs[\bin\Debug\net6.0\47_string_funcs.runtimeconfig.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\47_string_funcs[\bin\Debug\net6.0\47_string_funcs.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\47_string_funcs[\bin\Debug\net6.0\47_string_funcs.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\47_string_funcs[\obj\Debug\net6.0\47_string_funcs.csproj.AssemblyReference.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\47_string_funcs[\obj\Debug\net6.0\47_string_funcs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\47_string_funcs[\obj\Debug\net6.0\47_string_funcs.AssemblyInfoInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\47_string_funcs[\obj\Debug\net6.0\47_string_funcs.AssemblyInfo.cs
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\47_string_funcs[\obj\Debug\net6.0\47_string_funcs.csproj.CoreCompileInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\47_string_funcs[\obj\Debug\net6.0\47_string_funcs.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\47_string_funcs[\obj\Debug\net6.0\refint\47_string_funcs.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\47_string_funcs[\obj\Debug\net6.0\47_string_funcs.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\47_string_funcs[\obj\Debug\net6.0\47_string_funcs.genruntimeconfig.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\47_string_funcs[\obj\Debug\net6.0\ref\47_string_funcs.dll

@@ -1,0 +1,15 @@
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\52_DateTimeKind\bin\Debug\net6.0\52_DateTimeKind.exe
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\52_DateTimeKind\bin\Debug\net6.0\52_DateTimeKind.deps.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\52_DateTimeKind\bin\Debug\net6.0\52_DateTimeKind.runtimeconfig.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\52_DateTimeKind\bin\Debug\net6.0\52_DateTimeKind.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\52_DateTimeKind\bin\Debug\net6.0\52_DateTimeKind.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\52_DateTimeKind\obj\Debug\net6.0\52_DateTimeKind.csproj.AssemblyReference.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\52_DateTimeKind\obj\Debug\net6.0\52_DateTimeKind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\52_DateTimeKind\obj\Debug\net6.0\52_DateTimeKind.AssemblyInfoInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\52_DateTimeKind\obj\Debug\net6.0\52_DateTimeKind.AssemblyInfo.cs
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\52_DateTimeKind\obj\Debug\net6.0\52_DateTimeKind.csproj.CoreCompileInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\52_DateTimeKind\obj\Debug\net6.0\52_DateTimeKind.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\52_DateTimeKind\obj\Debug\net6.0\refint\52_DateTimeKind.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\52_DateTimeKind\obj\Debug\net6.0\52_DateTimeKind.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\52_DateTimeKind\obj\Debug\net6.0\52_DateTimeKind.genruntimeconfig.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\52_DateTimeKind\obj\Debug\net6.0\ref\52_DateTimeKind.dll
