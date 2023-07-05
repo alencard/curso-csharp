@@ -1,0 +1,15 @@
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\45_exercicio_matriz_2\bin\Debug\net6.0\45_exercicio_matriz_2.exe
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\45_exercicio_matriz_2\bin\Debug\net6.0\45_exercicio_matriz_2.deps.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\45_exercicio_matriz_2\bin\Debug\net6.0\45_exercicio_matriz_2.runtimeconfig.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\45_exercicio_matriz_2\bin\Debug\net6.0\45_exercicio_matriz_2.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\45_exercicio_matriz_2\bin\Debug\net6.0\45_exercicio_matriz_2.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\45_exercicio_matriz_2\obj\Debug\net6.0\45_exercicio_matriz_2.csproj.AssemblyReference.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\45_exercicio_matriz_2\obj\Debug\net6.0\45_exercicio_matriz_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\45_exercicio_matriz_2\obj\Debug\net6.0\45_exercicio_matriz_2.AssemblyInfoInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\45_exercicio_matriz_2\obj\Debug\net6.0\45_exercicio_matriz_2.AssemblyInfo.cs
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\45_exercicio_matriz_2\obj\Debug\net6.0\45_exercicio_matriz_2.csproj.CoreCompileInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\45_exercicio_matriz_2\obj\Debug\net6.0\45_exercicio_matriz_2.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\45_exercicio_matriz_2\obj\Debug\net6.0\refint\45_exercicio_matriz_2.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\45_exercicio_matriz_2\obj\Debug\net6.0\45_exercicio_matriz_2.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\45_exercicio_matriz_2\obj\Debug\net6.0\45_exercicio_matriz_2.genruntimeconfig.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\45_exercicio_matriz_2\obj\Debug\net6.0\ref\45_exercicio_matriz_2.dll

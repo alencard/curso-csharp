@@ -1,0 +1,15 @@
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\44_exercicio_matriz\bin\Debug\net6.0\44_exercicio_matriz.exe
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\44_exercicio_matriz\bin\Debug\net6.0\44_exercicio_matriz.deps.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\44_exercicio_matriz\bin\Debug\net6.0\44_exercicio_matriz.runtimeconfig.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\44_exercicio_matriz\bin\Debug\net6.0\44_exercicio_matriz.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\44_exercicio_matriz\bin\Debug\net6.0\44_exercicio_matriz.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\44_exercicio_matriz\obj\Debug\net6.0\44_exercicio_matriz.csproj.AssemblyReference.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\44_exercicio_matriz\obj\Debug\net6.0\44_exercicio_matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\44_exercicio_matriz\obj\Debug\net6.0\44_exercicio_matriz.AssemblyInfoInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\44_exercicio_matriz\obj\Debug\net6.0\44_exercicio_matriz.AssemblyInfo.cs
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\44_exercicio_matriz\obj\Debug\net6.0\44_exercicio_matriz.csproj.CoreCompileInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\44_exercicio_matriz\obj\Debug\net6.0\44_exercicio_matriz.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\44_exercicio_matriz\obj\Debug\net6.0\refint\44_exercicio_matriz.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\44_exercicio_matriz\obj\Debug\net6.0\44_exercicio_matriz.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\44_exercicio_matriz\obj\Debug\net6.0\44_exercicio_matriz.genruntimeconfig.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\44_exercicio_matriz\obj\Debug\net6.0\ref\44_exercicio_matriz.dll
