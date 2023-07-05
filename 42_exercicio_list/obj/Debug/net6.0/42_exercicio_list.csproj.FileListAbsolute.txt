@@ -1,0 +1,15 @@
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\42_exercicio_list\obj\Debug\net6.0\42_exercicio_list.csproj.AssemblyReference.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\42_exercicio_list\obj\Debug\net6.0\42_exercicio_list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\42_exercicio_list\obj\Debug\net6.0\42_exercicio_list.AssemblyInfoInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\42_exercicio_list\obj\Debug\net6.0\42_exercicio_list.AssemblyInfo.cs
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\42_exercicio_list\obj\Debug\net6.0\42_exercicio_list.csproj.CoreCompileInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\42_exercicio_list\bin\Debug\net6.0\42_exercicio_list.exe
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\42_exercicio_list\bin\Debug\net6.0\42_exercicio_list.deps.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\42_exercicio_list\bin\Debug\net6.0\42_exercicio_list.runtimeconfig.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\42_exercicio_list\bin\Debug\net6.0\42_exercicio_list.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\42_exercicio_list\bin\Debug\net6.0\42_exercicio_list.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\42_exercicio_list\obj\Debug\net6.0\42_exercicio_list.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\42_exercicio_list\obj\Debug\net6.0\refint\42_exercicio_list.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\42_exercicio_list\obj\Debug\net6.0\42_exercicio_list.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\42_exercicio_list\obj\Debug\net6.0\42_exercicio_list.genruntimeconfig.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\42_exercicio_list\obj\Debug\net6.0\ref\42_exercicio_list.dll

@@ -1,0 +1,15 @@
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\41_list\bin\Debug\net6.0\41_list.exe
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\41_list\bin\Debug\net6.0\41_list.deps.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\41_list\bin\Debug\net6.0\41_list.runtimeconfig.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\41_list\bin\Debug\net6.0\41_list.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\41_list\bin\Debug\net6.0\41_list.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\41_list\obj\Debug\net6.0\41_list.csproj.AssemblyReference.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\41_list\obj\Debug\net6.0\41_list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\41_list\obj\Debug\net6.0\41_list.AssemblyInfoInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\41_list\obj\Debug\net6.0\41_list.AssemblyInfo.cs
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\41_list\obj\Debug\net6.0\41_list.csproj.CoreCompileInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\41_list\obj\Debug\net6.0\41_list.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\41_list\obj\Debug\net6.0\refint\41_list.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\41_list\obj\Debug\net6.0\41_list.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\41_list\obj\Debug\net6.0\41_list.genruntimeconfig.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\41_list\obj\Debug\net6.0\ref\41_list.dll

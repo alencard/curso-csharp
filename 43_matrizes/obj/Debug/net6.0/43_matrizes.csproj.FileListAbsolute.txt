@@ -1,0 +1,15 @@
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\43_matrizes\bin\Debug\net6.0\43_matrizes.exe
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\43_matrizes\bin\Debug\net6.0\43_matrizes.deps.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\43_matrizes\bin\Debug\net6.0\43_matrizes.runtimeconfig.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\43_matrizes\bin\Debug\net6.0\43_matrizes.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\43_matrizes\bin\Debug\net6.0\43_matrizes.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\43_matrizes\obj\Debug\net6.0\43_matrizes.csproj.AssemblyReference.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\43_matrizes\obj\Debug\net6.0\43_matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\43_matrizes\obj\Debug\net6.0\43_matrizes.AssemblyInfoInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\43_matrizes\obj\Debug\net6.0\43_matrizes.AssemblyInfo.cs
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\43_matrizes\obj\Debug\net6.0\43_matrizes.csproj.CoreCompileInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\43_matrizes\obj\Debug\net6.0\43_matrizes.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\43_matrizes\obj\Debug\net6.0\refint\43_matrizes.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\43_matrizes\obj\Debug\net6.0\43_matrizes.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\43_matrizes\obj\Debug\net6.0\43_matrizes.genruntimeconfig.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso\43_matrizes\obj\Debug\net6.0\ref\43_matrizes.dll
