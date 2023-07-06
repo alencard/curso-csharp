@@ -1,0 +1,15 @@
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\53_enum\53_enum\obj\Debug\net6.0\53_enum.csproj.AssemblyReference.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\53_enum\53_enum\obj\Debug\net6.0\53_enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\53_enum\53_enum\obj\Debug\net6.0\53_enum.AssemblyInfoInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\53_enum\53_enum\obj\Debug\net6.0\53_enum.AssemblyInfo.cs
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\53_enum\53_enum\obj\Debug\net6.0\53_enum.csproj.CoreCompileInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\53_enum\53_enum\bin\Debug\net6.0\53_enum.exe
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\53_enum\53_enum\bin\Debug\net6.0\53_enum.deps.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\53_enum\53_enum\bin\Debug\net6.0\53_enum.runtimeconfig.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\53_enum\53_enum\bin\Debug\net6.0\53_enum.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\53_enum\53_enum\bin\Debug\net6.0\53_enum.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\53_enum\53_enum\obj\Debug\net6.0\53_enum.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\53_enum\53_enum\obj\Debug\net6.0\refint\53_enum.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\53_enum\53_enum\obj\Debug\net6.0\53_enum.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\53_enum\53_enum\obj\Debug\net6.0\53_enum.genruntimeconfig.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\53_enum\53_enum\obj\Debug\net6.0\ref\53_enum.dll
