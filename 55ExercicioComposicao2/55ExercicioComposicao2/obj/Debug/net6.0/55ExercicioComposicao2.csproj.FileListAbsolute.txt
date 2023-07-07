@@ -1,0 +1,15 @@
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\55ExercicioComposicao2\55ExercicioComposicao2\obj\Debug\net6.0\55ExercicioComposicao2.csproj.AssemblyReference.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\55ExercicioComposicao2\55ExercicioComposicao2\obj\Debug\net6.0\55ExercicioComposicao2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\55ExercicioComposicao2\55ExercicioComposicao2\obj\Debug\net6.0\55ExercicioComposicao2.AssemblyInfoInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\55ExercicioComposicao2\55ExercicioComposicao2\obj\Debug\net6.0\55ExercicioComposicao2.AssemblyInfo.cs
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\55ExercicioComposicao2\55ExercicioComposicao2\obj\Debug\net6.0\55ExercicioComposicao2.csproj.CoreCompileInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\55ExercicioComposicao2\55ExercicioComposicao2\bin\Debug\net6.0\55ExercicioComposicao2.exe
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\55ExercicioComposicao2\55ExercicioComposicao2\bin\Debug\net6.0\55ExercicioComposicao2.deps.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\55ExercicioComposicao2\55ExercicioComposicao2\bin\Debug\net6.0\55ExercicioComposicao2.runtimeconfig.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\55ExercicioComposicao2\55ExercicioComposicao2\bin\Debug\net6.0\55ExercicioComposicao2.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\55ExercicioComposicao2\55ExercicioComposicao2\bin\Debug\net6.0\55ExercicioComposicao2.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\55ExercicioComposicao2\55ExercicioComposicao2\obj\Debug\net6.0\55ExercicioComposicao2.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\55ExercicioComposicao2\55ExercicioComposicao2\obj\Debug\net6.0\refint\55ExercicioComposicao2.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\55ExercicioComposicao2\55ExercicioComposicao2\obj\Debug\net6.0\55ExercicioComposicao2.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\55ExercicioComposicao2\55ExercicioComposicao2\obj\Debug\net6.0\55ExercicioComposicao2.genruntimeconfig.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\55ExercicioComposicao2\55ExercicioComposicao2\obj\Debug\net6.0\ref\55ExercicioComposicao2.dll

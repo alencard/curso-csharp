@@ -1,0 +1,15 @@
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\54_exercicio_composicao\54_exercicio_composicao\bin\Debug\net6.0\54_exercicio_composicao.exe
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\54_exercicio_composicao\54_exercicio_composicao\bin\Debug\net6.0\54_exercicio_composicao.deps.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\54_exercicio_composicao\54_exercicio_composicao\bin\Debug\net6.0\54_exercicio_composicao.runtimeconfig.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\54_exercicio_composicao\54_exercicio_composicao\bin\Debug\net6.0\54_exercicio_composicao.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\54_exercicio_composicao\54_exercicio_composicao\bin\Debug\net6.0\54_exercicio_composicao.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\54_exercicio_composicao\54_exercicio_composicao\obj\Debug\net6.0\54_exercicio_composicao.csproj.AssemblyReference.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\54_exercicio_composicao\54_exercicio_composicao\obj\Debug\net6.0\54_exercicio_composicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\54_exercicio_composicao\54_exercicio_composicao\obj\Debug\net6.0\54_exercicio_composicao.AssemblyInfoInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\54_exercicio_composicao\54_exercicio_composicao\obj\Debug\net6.0\54_exercicio_composicao.AssemblyInfo.cs
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\54_exercicio_composicao\54_exercicio_composicao\obj\Debug\net6.0\54_exercicio_composicao.csproj.CoreCompileInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\54_exercicio_composicao\54_exercicio_composicao\obj\Debug\net6.0\54_exercicio_composicao.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\54_exercicio_composicao\54_exercicio_composicao\obj\Debug\net6.0\refint\54_exercicio_composicao.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\54_exercicio_composicao\54_exercicio_composicao\obj\Debug\net6.0\54_exercicio_composicao.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\54_exercicio_composicao\54_exercicio_composicao\obj\Debug\net6.0\54_exercicio_composicao.genruntimeconfig.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\54_exercicio_composicao\54_exercicio_composicao\obj\Debug\net6.0\ref\54_exercicio_composicao.dll
