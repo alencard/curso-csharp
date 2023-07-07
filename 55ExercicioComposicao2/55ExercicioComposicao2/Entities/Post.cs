@@ -21,16 +21,6 @@
             Likes = likes;
         }
 
-        public void Like(int qtt = 1)
-        {
-            Likes += qtt;
-        }
-
-        public void Dislike(int qtt = 1)
-        {
-            Likes -= qtt;
-        }
-
         public void NewComment(Comment comment)
         {
             Comments.Add(comment);
