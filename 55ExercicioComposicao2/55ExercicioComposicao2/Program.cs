@@ -11,7 +11,7 @@ namespace _55ExerciciosComposicao2
             Console.Write("Quantos posts você quer fazer? ");
             int n = int.Parse(Console.ReadLine());
 
-            // criar um novo post
+            // criar um novo post e add comentarios
             for (int i = 0; i < n; i++)
             {
                 Console.WriteLine();
@@ -27,37 +27,24 @@ namespace _55ExerciciosComposicao2
 
                 posts.Add(post);
 
-            }
-
-            // adicionar os comments
-            for (int i = 0; i < posts.Count; i++)
-            {
+                Console.WriteLine();
                 Console.Write($"Quantos comentários você quer adicionar para o post #{i + 1}? ");
                 int qttComments = int.Parse(Console.ReadLine());
 
                 for (int j = 0; j < qttComments; j++)
                 {
-                    Console.WriteLine($"Insira o conteúdo do comentário #:");
+                    Console.WriteLine($"Insira o conteúdo do comentário #{j + 1}:");
                     Comment comment = new(Console.ReadLine());
                     posts[i].AddComment(comment);
                 }
-
             }
 
             //mostrar post e comments 
             for (int i = 0; i < posts.Count; i++)
             {
                 Console.WriteLine();
-
                 Console.WriteLine($"Post #{i + 1}:");
                 Console.WriteLine(posts[i]);
-
-                for (int j = 0; j < posts[i].Comments.Count; j++)
-                {
-                    Console.WriteLine();
-                    Console.WriteLine($"Comentário #{j + 1}:");
-                    Console.WriteLine(posts[i].Comments[j]);
-                }
             }
         }
     }
