@@ -6,7 +6,7 @@
         public string Title { get; private set; }
         public string Content { get; private set; }
         public int Likes { get; private set; }
-        public List<Comment> Comments { get; set; }
+        public List<Comment> Comments { get; set; } = new List<Comment>();
 
         public Post()
         {
@@ -21,7 +21,7 @@
             Likes = likes;
         }
 
-        public void NewComment(Comment comment)
+        public void AddComment(Comment comment)
         {
             Comments.Add(comment);
         }

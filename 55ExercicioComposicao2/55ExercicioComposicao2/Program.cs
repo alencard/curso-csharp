@@ -39,12 +39,10 @@ namespace _55ExerciciosComposicao2
                 {
                     Console.WriteLine($"Insira o conteúdo do comentário #:");
                     Comment comment = new(Console.ReadLine());
-                    posts[i].NewComment(comment);
+                    posts[i].AddComment(comment);
                 }
 
             }
-
-            Console.WriteLine("macaco");
 
             //mostrar post e comments 
             for (int i = 0; i < posts.Count; i++)
