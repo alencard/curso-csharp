@@ -1,0 +1,15 @@
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\61ClassesAbstratas\61ClassesAbstratas\bin\Debug\net6.0\61ClassesAbstratas.exe
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\61ClassesAbstratas\61ClassesAbstratas\bin\Debug\net6.0\61ClassesAbstratas.deps.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\61ClassesAbstratas\61ClassesAbstratas\bin\Debug\net6.0\61ClassesAbstratas.runtimeconfig.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\61ClassesAbstratas\61ClassesAbstratas\bin\Debug\net6.0\61ClassesAbstratas.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\61ClassesAbstratas\61ClassesAbstratas\bin\Debug\net6.0\61ClassesAbstratas.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\61ClassesAbstratas\61ClassesAbstratas\obj\Debug\net6.0\61ClassesAbstratas.csproj.AssemblyReference.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\61ClassesAbstratas\61ClassesAbstratas\obj\Debug\net6.0\61ClassesAbstratas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\61ClassesAbstratas\61ClassesAbstratas\obj\Debug\net6.0\61ClassesAbstratas.AssemblyInfoInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\61ClassesAbstratas\61ClassesAbstratas\obj\Debug\net6.0\61ClassesAbstratas.AssemblyInfo.cs
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\61ClassesAbstratas\61ClassesAbstratas\obj\Debug\net6.0\61ClassesAbstratas.csproj.CoreCompileInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\61ClassesAbstratas\61ClassesAbstratas\obj\Debug\net6.0\61ClassesAbstratas.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\61ClassesAbstratas\61ClassesAbstratas\obj\Debug\net6.0\refint\61ClassesAbstratas.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\61ClassesAbstratas\61ClassesAbstratas\obj\Debug\net6.0\61ClassesAbstratas.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\61ClassesAbstratas\61ClassesAbstratas\obj\Debug\net6.0\61ClassesAbstratas.genruntimeconfig.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\61ClassesAbstratas\61ClassesAbstratas\obj\Debug\net6.0\ref\61ClassesAbstratas.dll
