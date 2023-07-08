@@ -19,9 +19,20 @@
             Balance += Balance * InterestRate;
         }
 
+        /*
+        //sobrescrevendo mudando o metodo
         public override void Withdraw(double amount)
         {
             Balance -= amount;
+        }
+        */
+
+        public override void Withdraw(double amount)
+        {
+            //aproveito o metodo original
+            base.Withdraw(amount);
+            // e faço as alterações que preciso
+            Balance -= 2;
         }
     }
 }
