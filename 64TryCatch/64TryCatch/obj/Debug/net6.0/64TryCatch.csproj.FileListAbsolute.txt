@@ -1,0 +1,15 @@
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\64TryCatch\64TryCatch\bin\Debug\net6.0\64TryCatch.exe
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\64TryCatch\64TryCatch\bin\Debug\net6.0\64TryCatch.deps.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\64TryCatch\64TryCatch\bin\Debug\net6.0\64TryCatch.runtimeconfig.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\64TryCatch\64TryCatch\bin\Debug\net6.0\64TryCatch.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\64TryCatch\64TryCatch\bin\Debug\net6.0\64TryCatch.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\64TryCatch\64TryCatch\obj\Debug\net6.0\64TryCatch.csproj.AssemblyReference.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\64TryCatch\64TryCatch\obj\Debug\net6.0\64TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\64TryCatch\64TryCatch\obj\Debug\net6.0\64TryCatch.AssemblyInfoInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\64TryCatch\64TryCatch\obj\Debug\net6.0\64TryCatch.AssemblyInfo.cs
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\64TryCatch\64TryCatch\obj\Debug\net6.0\64TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\64TryCatch\64TryCatch\obj\Debug\net6.0\64TryCatch.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\64TryCatch\64TryCatch\obj\Debug\net6.0\refint\64TryCatch.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\64TryCatch\64TryCatch\obj\Debug\net6.0\64TryCatch.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\64TryCatch\64TryCatch\obj\Debug\net6.0\64TryCatch.genruntimeconfig.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\64TryCatch\64TryCatch\obj\Debug\net6.0\ref\64TryCatch.dll
