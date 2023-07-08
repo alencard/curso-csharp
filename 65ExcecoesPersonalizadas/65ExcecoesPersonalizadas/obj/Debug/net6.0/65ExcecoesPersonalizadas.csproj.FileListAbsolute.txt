@@ -1,0 +1,15 @@
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\65ExcecoesPersonalizadas\65ExcecoesPersonalizadas\bin\Debug\net6.0\65ExcecoesPersonalizadas.exe
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\65ExcecoesPersonalizadas\65ExcecoesPersonalizadas\bin\Debug\net6.0\65ExcecoesPersonalizadas.deps.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\65ExcecoesPersonalizadas\65ExcecoesPersonalizadas\bin\Debug\net6.0\65ExcecoesPersonalizadas.runtimeconfig.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\65ExcecoesPersonalizadas\65ExcecoesPersonalizadas\bin\Debug\net6.0\65ExcecoesPersonalizadas.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\65ExcecoesPersonalizadas\65ExcecoesPersonalizadas\bin\Debug\net6.0\65ExcecoesPersonalizadas.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\65ExcecoesPersonalizadas\65ExcecoesPersonalizadas\obj\Debug\net6.0\65ExcecoesPersonalizadas.csproj.AssemblyReference.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\65ExcecoesPersonalizadas\65ExcecoesPersonalizadas\obj\Debug\net6.0\65ExcecoesPersonalizadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\65ExcecoesPersonalizadas\65ExcecoesPersonalizadas\obj\Debug\net6.0\65ExcecoesPersonalizadas.AssemblyInfoInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\65ExcecoesPersonalizadas\65ExcecoesPersonalizadas\obj\Debug\net6.0\65ExcecoesPersonalizadas.AssemblyInfo.cs
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\65ExcecoesPersonalizadas\65ExcecoesPersonalizadas\obj\Debug\net6.0\65ExcecoesPersonalizadas.csproj.CoreCompileInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\65ExcecoesPersonalizadas\65ExcecoesPersonalizadas\obj\Debug\net6.0\65ExcecoesPersonalizadas.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\65ExcecoesPersonalizadas\65ExcecoesPersonalizadas\obj\Debug\net6.0\refint\65ExcecoesPersonalizadas.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\65ExcecoesPersonalizadas\65ExcecoesPersonalizadas\obj\Debug\net6.0\65ExcecoesPersonalizadas.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\65ExcecoesPersonalizadas\65ExcecoesPersonalizadas\obj\Debug\net6.0\65ExcecoesPersonalizadas.genruntimeconfig.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\65ExcecoesPersonalizadas\65ExcecoesPersonalizadas\obj\Debug\net6.0\ref\65ExcecoesPersonalizadas.dll
