@@ -1,0 +1,15 @@
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\66ExercicioDeFixacao\66ExercicioDeFixacao\bin\Debug\net6.0\66ExercicioDeFixacao.exe
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\66ExercicioDeFixacao\66ExercicioDeFixacao\bin\Debug\net6.0\66ExercicioDeFixacao.deps.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\66ExercicioDeFixacao\66ExercicioDeFixacao\bin\Debug\net6.0\66ExercicioDeFixacao.runtimeconfig.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\66ExercicioDeFixacao\66ExercicioDeFixacao\bin\Debug\net6.0\66ExercicioDeFixacao.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\66ExercicioDeFixacao\66ExercicioDeFixacao\bin\Debug\net6.0\66ExercicioDeFixacao.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\66ExercicioDeFixacao\66ExercicioDeFixacao\obj\Debug\net6.0\66ExercicioDeFixacao.csproj.AssemblyReference.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\66ExercicioDeFixacao\66ExercicioDeFixacao\obj\Debug\net6.0\66ExercicioDeFixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\66ExercicioDeFixacao\66ExercicioDeFixacao\obj\Debug\net6.0\66ExercicioDeFixacao.AssemblyInfoInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\66ExercicioDeFixacao\66ExercicioDeFixacao\obj\Debug\net6.0\66ExercicioDeFixacao.AssemblyInfo.cs
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\66ExercicioDeFixacao\66ExercicioDeFixacao\obj\Debug\net6.0\66ExercicioDeFixacao.csproj.CoreCompileInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\66ExercicioDeFixacao\66ExercicioDeFixacao\obj\Debug\net6.0\66ExercicioDeFixacao.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\66ExercicioDeFixacao\66ExercicioDeFixacao\obj\Debug\net6.0\refint\66ExercicioDeFixacao.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\66ExercicioDeFixacao\66ExercicioDeFixacao\obj\Debug\net6.0\66ExercicioDeFixacao.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\66ExercicioDeFixacao\66ExercicioDeFixacao\obj\Debug\net6.0\66ExercicioDeFixacao.genruntimeconfig.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\66ExercicioDeFixacao\66ExercicioDeFixacao\obj\Debug\net6.0\ref\66ExercicioDeFixacao.dll
