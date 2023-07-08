@@ -1,0 +1,15 @@
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\62MetodosAbstratos\62MetodosAbstratos\bin\Debug\net6.0\62MetodosAbstratos.exe
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\62MetodosAbstratos\62MetodosAbstratos\bin\Debug\net6.0\62MetodosAbstratos.deps.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\62MetodosAbstratos\62MetodosAbstratos\bin\Debug\net6.0\62MetodosAbstratos.runtimeconfig.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\62MetodosAbstratos\62MetodosAbstratos\bin\Debug\net6.0\62MetodosAbstratos.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\62MetodosAbstratos\62MetodosAbstratos\bin\Debug\net6.0\62MetodosAbstratos.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\62MetodosAbstratos\62MetodosAbstratos\obj\Debug\net6.0\62MetodosAbstratos.csproj.AssemblyReference.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\62MetodosAbstratos\62MetodosAbstratos\obj\Debug\net6.0\62MetodosAbstratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\62MetodosAbstratos\62MetodosAbstratos\obj\Debug\net6.0\62MetodosAbstratos.AssemblyInfoInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\62MetodosAbstratos\62MetodosAbstratos\obj\Debug\net6.0\62MetodosAbstratos.AssemblyInfo.cs
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\62MetodosAbstratos\62MetodosAbstratos\obj\Debug\net6.0\62MetodosAbstratos.csproj.CoreCompileInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\62MetodosAbstratos\62MetodosAbstratos\obj\Debug\net6.0\62MetodosAbstratos.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\62MetodosAbstratos\62MetodosAbstratos\obj\Debug\net6.0\refint\62MetodosAbstratos.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\62MetodosAbstratos\62MetodosAbstratos\obj\Debug\net6.0\62MetodosAbstratos.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\62MetodosAbstratos\62MetodosAbstratos\obj\Debug\net6.0\62MetodosAbstratos.genruntimeconfig.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\62MetodosAbstratos\62MetodosAbstratos\obj\Debug\net6.0\ref\62MetodosAbstratos.dll
