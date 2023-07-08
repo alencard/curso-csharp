@@ -1,0 +1,15 @@
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\57Heranca\57Heranca\bin\Debug\net6.0\57Heranca.exe
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\57Heranca\57Heranca\bin\Debug\net6.0\57Heranca.deps.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\57Heranca\57Heranca\bin\Debug\net6.0\57Heranca.runtimeconfig.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\57Heranca\57Heranca\bin\Debug\net6.0\57Heranca.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\57Heranca\57Heranca\bin\Debug\net6.0\57Heranca.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\57Heranca\57Heranca\obj\Debug\net6.0\57Heranca.csproj.AssemblyReference.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\57Heranca\57Heranca\obj\Debug\net6.0\57Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\57Heranca\57Heranca\obj\Debug\net6.0\57Heranca.AssemblyInfoInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\57Heranca\57Heranca\obj\Debug\net6.0\57Heranca.AssemblyInfo.cs
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\57Heranca\57Heranca\obj\Debug\net6.0\57Heranca.csproj.CoreCompileInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\57Heranca\57Heranca\obj\Debug\net6.0\57Heranca.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\57Heranca\57Heranca\obj\Debug\net6.0\refint\57Heranca.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\57Heranca\57Heranca\obj\Debug\net6.0\57Heranca.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\57Heranca\57Heranca\obj\Debug\net6.0\57Heranca.genruntimeconfig.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\57Heranca\57Heranca\obj\Debug\net6.0\ref\57Heranca.dll
