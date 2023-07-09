@@ -1,4 +1,6 @@
-﻿namespace _73ExercicioFixacao
+﻿using System.Globalization;
+
+namespace _73ExercicioFixacao
 {
     class Program
     {
@@ -7,6 +9,10 @@
             string sourcePath;
             string targetPath;
             string[] lines;
+            string[] linesItems;
+            double price;
+            int qtt;
+            double finalValue;
 
             try
             {
@@ -17,9 +23,14 @@
 
                 using StreamWriter sw = File.AppendText(targetPath);
 
-                foreach(string line in lines)
+                foreach (string line in lines)
                 {
-                    sw.WriteLine(line);
+                    linesItems = line.Split(',');
+                    price = double.Parse(linesItems[^2], CultureInfo.InvariantCulture);
+                    qtt = int.Parse(linesItems[^1]);
+                    finalValue = price * qtt;
+
+                    sw.WriteLine($"{linesItems[0]},{finalValue.ToString("f2", CultureInfo.InvariantCulture)}");
                 }
             }
             catch (IOException e)
