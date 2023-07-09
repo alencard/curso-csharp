@@ -1,0 +1,15 @@
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\69UsingBlock\69UsingBlock\bin\Debug\net6.0\69UsingBlock.exe
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\69UsingBlock\69UsingBlock\bin\Debug\net6.0\69UsingBlock.deps.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\69UsingBlock\69UsingBlock\bin\Debug\net6.0\69UsingBlock.runtimeconfig.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\69UsingBlock\69UsingBlock\bin\Debug\net6.0\69UsingBlock.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\69UsingBlock\69UsingBlock\bin\Debug\net6.0\69UsingBlock.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\69UsingBlock\69UsingBlock\obj\Debug\net6.0\69UsingBlock.csproj.AssemblyReference.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\69UsingBlock\69UsingBlock\obj\Debug\net6.0\69UsingBlock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\69UsingBlock\69UsingBlock\obj\Debug\net6.0\69UsingBlock.AssemblyInfoInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\69UsingBlock\69UsingBlock\obj\Debug\net6.0\69UsingBlock.AssemblyInfo.cs
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\69UsingBlock\69UsingBlock\obj\Debug\net6.0\69UsingBlock.csproj.CoreCompileInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\69UsingBlock\69UsingBlock\obj\Debug\net6.0\69UsingBlock.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\69UsingBlock\69UsingBlock\obj\Debug\net6.0\refint\69UsingBlock.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\69UsingBlock\69UsingBlock\obj\Debug\net6.0\69UsingBlock.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\69UsingBlock\69UsingBlock\obj\Debug\net6.0\69UsingBlock.genruntimeconfig.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\69UsingBlock\69UsingBlock\obj\Debug\net6.0\ref\69UsingBlock.dll
