@@ -1,0 +1,15 @@
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\72Path\72Path\bin\Debug\net6.0\72Path.exe
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\72Path\72Path\bin\Debug\net6.0\72Path.deps.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\72Path\72Path\bin\Debug\net6.0\72Path.runtimeconfig.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\72Path\72Path\bin\Debug\net6.0\72Path.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\72Path\72Path\bin\Debug\net6.0\72Path.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\72Path\72Path\obj\Debug\net6.0\72Path.csproj.AssemblyReference.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\72Path\72Path\obj\Debug\net6.0\72Path.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\72Path\72Path\obj\Debug\net6.0\72Path.AssemblyInfoInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\72Path\72Path\obj\Debug\net6.0\72Path.AssemblyInfo.cs
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\72Path\72Path\obj\Debug\net6.0\72Path.csproj.CoreCompileInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\72Path\72Path\obj\Debug\net6.0\72Path.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\72Path\72Path\obj\Debug\net6.0\refint\72Path.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\72Path\72Path\obj\Debug\net6.0\72Path.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\72Path\72Path\obj\Debug\net6.0\72Path.genruntimeconfig.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\72Path\72Path\obj\Debug\net6.0\ref\72Path.dll
