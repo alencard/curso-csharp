@@ -1,0 +1,15 @@
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\68FileStream\68FileStream\bin\Debug\net6.0\68FileStream.exe
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\68FileStream\68FileStream\bin\Debug\net6.0\68FileStream.deps.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\68FileStream\68FileStream\bin\Debug\net6.0\68FileStream.runtimeconfig.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\68FileStream\68FileStream\bin\Debug\net6.0\68FileStream.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\68FileStream\68FileStream\bin\Debug\net6.0\68FileStream.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\68FileStream\68FileStream\obj\Debug\net6.0\68FileStream.csproj.AssemblyReference.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\68FileStream\68FileStream\obj\Debug\net6.0\68FileStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\68FileStream\68FileStream\obj\Debug\net6.0\68FileStream.AssemblyInfoInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\68FileStream\68FileStream\obj\Debug\net6.0\68FileStream.AssemblyInfo.cs
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\68FileStream\68FileStream\obj\Debug\net6.0\68FileStream.csproj.CoreCompileInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\68FileStream\68FileStream\obj\Debug\net6.0\68FileStream.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\68FileStream\68FileStream\obj\Debug\net6.0\refint\68FileStream.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\68FileStream\68FileStream\obj\Debug\net6.0\68FileStream.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\68FileStream\68FileStream\obj\Debug\net6.0\68FileStream.genruntimeconfig.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\68FileStream\68FileStream\obj\Debug\net6.0\ref\68FileStream.dll
