@@ -1,0 +1,15 @@
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\73ExercicioFixacao\73ExercicioFixacao\bin\Debug\net6.0\73ExercicioFixacao.exe
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\73ExercicioFixacao\73ExercicioFixacao\bin\Debug\net6.0\73ExercicioFixacao.deps.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\73ExercicioFixacao\73ExercicioFixacao\bin\Debug\net6.0\73ExercicioFixacao.runtimeconfig.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\73ExercicioFixacao\73ExercicioFixacao\bin\Debug\net6.0\73ExercicioFixacao.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\73ExercicioFixacao\73ExercicioFixacao\bin\Debug\net6.0\73ExercicioFixacao.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\73ExercicioFixacao\73ExercicioFixacao\obj\Debug\net6.0\73ExercicioFixacao.csproj.AssemblyReference.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\73ExercicioFixacao\73ExercicioFixacao\obj\Debug\net6.0\73ExercicioFixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\73ExercicioFixacao\73ExercicioFixacao\obj\Debug\net6.0\73ExercicioFixacao.AssemblyInfoInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\73ExercicioFixacao\73ExercicioFixacao\obj\Debug\net6.0\73ExercicioFixacao.AssemblyInfo.cs
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\73ExercicioFixacao\73ExercicioFixacao\obj\Debug\net6.0\73ExercicioFixacao.csproj.CoreCompileInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\73ExercicioFixacao\73ExercicioFixacao\obj\Debug\net6.0\73ExercicioFixacao.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\73ExercicioFixacao\73ExercicioFixacao\obj\Debug\net6.0\refint\73ExercicioFixacao.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\73ExercicioFixacao\73ExercicioFixacao\obj\Debug\net6.0\73ExercicioFixacao.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\73ExercicioFixacao\73ExercicioFixacao\obj\Debug\net6.0\73ExercicioFixacao.genruntimeconfig.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\73ExercicioFixacao\73ExercicioFixacao\obj\Debug\net6.0\ref\73ExercicioFixacao.dll
