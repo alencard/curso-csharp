@@ -1,0 +1,15 @@
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\70StreamWriter\70StreamWriter\bin\Debug\net6.0\70StreamWriter.exe
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\70StreamWriter\70StreamWriter\bin\Debug\net6.0\70StreamWriter.deps.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\70StreamWriter\70StreamWriter\bin\Debug\net6.0\70StreamWriter.runtimeconfig.json
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\70StreamWriter\70StreamWriter\bin\Debug\net6.0\70StreamWriter.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\70StreamWriter\70StreamWriter\bin\Debug\net6.0\70StreamWriter.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\70StreamWriter\70StreamWriter\obj\Debug\net6.0\70StreamWriter.csproj.AssemblyReference.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\70StreamWriter\70StreamWriter\obj\Debug\net6.0\70StreamWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\70StreamWriter\70StreamWriter\obj\Debug\net6.0\70StreamWriter.AssemblyInfoInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\70StreamWriter\70StreamWriter\obj\Debug\net6.0\70StreamWriter.AssemblyInfo.cs
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\70StreamWriter\70StreamWriter\obj\Debug\net6.0\70StreamWriter.csproj.CoreCompileInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\70StreamWriter\70StreamWriter\obj\Debug\net6.0\70StreamWriter.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\70StreamWriter\70StreamWriter\obj\Debug\net6.0\refint\70StreamWriter.dll
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\70StreamWriter\70StreamWriter\obj\Debug\net6.0\70StreamWriter.pdb
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\70StreamWriter\70StreamWriter\obj\Debug\net6.0\70StreamWriter.genruntimeconfig.cache
+C:\Users\thith\OneDrive\programacao\back-end\csharp\curso-csharp\70StreamWriter\70StreamWriter\obj\Debug\net6.0\ref\70StreamWriter.dll
