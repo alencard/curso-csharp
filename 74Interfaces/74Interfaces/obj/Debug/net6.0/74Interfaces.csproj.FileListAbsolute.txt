@@ -1,0 +1,15 @@
+C:\Users\05357762252\Documents\cSharp\AspNet\74Interfaces\74Interfaces\bin\Debug\net6.0\74Interfaces.exe
+C:\Users\05357762252\Documents\cSharp\AspNet\74Interfaces\74Interfaces\bin\Debug\net6.0\74Interfaces.deps.json
+C:\Users\05357762252\Documents\cSharp\AspNet\74Interfaces\74Interfaces\bin\Debug\net6.0\74Interfaces.runtimeconfig.json
+C:\Users\05357762252\Documents\cSharp\AspNet\74Interfaces\74Interfaces\bin\Debug\net6.0\74Interfaces.dll
+C:\Users\05357762252\Documents\cSharp\AspNet\74Interfaces\74Interfaces\bin\Debug\net6.0\74Interfaces.pdb
+C:\Users\05357762252\Documents\cSharp\AspNet\74Interfaces\74Interfaces\obj\Debug\net6.0\74Interfaces.csproj.AssemblyReference.cache
+C:\Users\05357762252\Documents\cSharp\AspNet\74Interfaces\74Interfaces\obj\Debug\net6.0\74Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\05357762252\Documents\cSharp\AspNet\74Interfaces\74Interfaces\obj\Debug\net6.0\74Interfaces.AssemblyInfoInputs.cache
+C:\Users\05357762252\Documents\cSharp\AspNet\74Interfaces\74Interfaces\obj\Debug\net6.0\74Interfaces.AssemblyInfo.cs
+C:\Users\05357762252\Documents\cSharp\AspNet\74Interfaces\74Interfaces\obj\Debug\net6.0\74Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\05357762252\Documents\cSharp\AspNet\74Interfaces\74Interfaces\obj\Debug\net6.0\74Interfaces.dll
+C:\Users\05357762252\Documents\cSharp\AspNet\74Interfaces\74Interfaces\obj\Debug\net6.0\refint\74Interfaces.dll
+C:\Users\05357762252\Documents\cSharp\AspNet\74Interfaces\74Interfaces\obj\Debug\net6.0\74Interfaces.pdb
+C:\Users\05357762252\Documents\cSharp\AspNet\74Interfaces\74Interfaces\obj\Debug\net6.0\74Interfaces.genruntimeconfig.cache
+C:\Users\05357762252\Documents\cSharp\AspNet\74Interfaces\74Interfaces\obj\Debug\net6.0\ref\74Interfaces.dll
