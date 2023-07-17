@@ -1,0 +1,15 @@
+C:\Users\05357762252\Documents\cSharp\curso\75ExercicioInterfaces\75ExercicioInterfaces\bin\Debug\net6.0\75ExercicioInterfaces.exe
+C:\Users\05357762252\Documents\cSharp\curso\75ExercicioInterfaces\75ExercicioInterfaces\bin\Debug\net6.0\75ExercicioInterfaces.deps.json
+C:\Users\05357762252\Documents\cSharp\curso\75ExercicioInterfaces\75ExercicioInterfaces\bin\Debug\net6.0\75ExercicioInterfaces.runtimeconfig.json
+C:\Users\05357762252\Documents\cSharp\curso\75ExercicioInterfaces\75ExercicioInterfaces\bin\Debug\net6.0\75ExercicioInterfaces.dll
+C:\Users\05357762252\Documents\cSharp\curso\75ExercicioInterfaces\75ExercicioInterfaces\bin\Debug\net6.0\75ExercicioInterfaces.pdb
+C:\Users\05357762252\Documents\cSharp\curso\75ExercicioInterfaces\75ExercicioInterfaces\obj\Debug\net6.0\75ExercicioInterfaces.csproj.AssemblyReference.cache
+C:\Users\05357762252\Documents\cSharp\curso\75ExercicioInterfaces\75ExercicioInterfaces\obj\Debug\net6.0\75ExercicioInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\05357762252\Documents\cSharp\curso\75ExercicioInterfaces\75ExercicioInterfaces\obj\Debug\net6.0\75ExercicioInterfaces.AssemblyInfoInputs.cache
+C:\Users\05357762252\Documents\cSharp\curso\75ExercicioInterfaces\75ExercicioInterfaces\obj\Debug\net6.0\75ExercicioInterfaces.AssemblyInfo.cs
+C:\Users\05357762252\Documents\cSharp\curso\75ExercicioInterfaces\75ExercicioInterfaces\obj\Debug\net6.0\75ExercicioInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\05357762252\Documents\cSharp\curso\75ExercicioInterfaces\75ExercicioInterfaces\obj\Debug\net6.0\75ExercicioInterfaces.dll
+C:\Users\05357762252\Documents\cSharp\curso\75ExercicioInterfaces\75ExercicioInterfaces\obj\Debug\net6.0\refint\75ExercicioInterfaces.dll
+C:\Users\05357762252\Documents\cSharp\curso\75ExercicioInterfaces\75ExercicioInterfaces\obj\Debug\net6.0\75ExercicioInterfaces.pdb
+C:\Users\05357762252\Documents\cSharp\curso\75ExercicioInterfaces\75ExercicioInterfaces\obj\Debug\net6.0\75ExercicioInterfaces.genruntimeconfig.cache
+C:\Users\05357762252\Documents\cSharp\curso\75ExercicioInterfaces\75ExercicioInterfaces\obj\Debug\net6.0\ref\75ExercicioInterfaces.dll

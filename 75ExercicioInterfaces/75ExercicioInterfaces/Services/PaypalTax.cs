@@ -2,14 +2,17 @@
 {
     internal class PaypalTax : ITaxService
     {
-        public double MonthTax()
+        private const double FeePorcentage = 0.02;
+        private const double MonthlyInterest = 0.01;
+
+        public double MonthTax(double amount, int numInstallments)
         {
-            return 0;
+            return amount * MonthlyInterest * numInstallments;
         }
 
-        public double PaymentFee()
+        public double PaymentFee(double amount)
         {
-            return 0.02;
+            return amount * FeePorcentage;
         }
     }
 }

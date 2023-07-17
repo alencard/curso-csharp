@@ -2,7 +2,7 @@
 {
     internal interface ITaxService
     {
-        public double MonthTax();
-        public double PaymentFee();
+        public double MonthTax(double amount, int numInstallments);
+        public double PaymentFee(double amount);
     }
 }
