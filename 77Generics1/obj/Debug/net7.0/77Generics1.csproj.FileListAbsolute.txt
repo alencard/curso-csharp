@@ -1,0 +1,15 @@
+C:\Users\05357762252\Documents\cSharp\curso\77Generics1\bin\Debug\net7.0\77Generics1.exe
+C:\Users\05357762252\Documents\cSharp\curso\77Generics1\bin\Debug\net7.0\77Generics1.deps.json
+C:\Users\05357762252\Documents\cSharp\curso\77Generics1\bin\Debug\net7.0\77Generics1.runtimeconfig.json
+C:\Users\05357762252\Documents\cSharp\curso\77Generics1\bin\Debug\net7.0\77Generics1.dll
+C:\Users\05357762252\Documents\cSharp\curso\77Generics1\bin\Debug\net7.0\77Generics1.pdb
+C:\Users\05357762252\Documents\cSharp\curso\77Generics1\obj\Debug\net7.0\77Generics1.csproj.AssemblyReference.cache
+C:\Users\05357762252\Documents\cSharp\curso\77Generics1\obj\Debug\net7.0\77Generics1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\05357762252\Documents\cSharp\curso\77Generics1\obj\Debug\net7.0\77Generics1.AssemblyInfoInputs.cache
+C:\Users\05357762252\Documents\cSharp\curso\77Generics1\obj\Debug\net7.0\77Generics1.AssemblyInfo.cs
+C:\Users\05357762252\Documents\cSharp\curso\77Generics1\obj\Debug\net7.0\77Generics1.csproj.CoreCompileInputs.cache
+C:\Users\05357762252\Documents\cSharp\curso\77Generics1\obj\Debug\net7.0\77Generics1.dll
+C:\Users\05357762252\Documents\cSharp\curso\77Generics1\obj\Debug\net7.0\refint\77Generics1.dll
+C:\Users\05357762252\Documents\cSharp\curso\77Generics1\obj\Debug\net7.0\77Generics1.pdb
+C:\Users\05357762252\Documents\cSharp\curso\77Generics1\obj\Debug\net7.0\77Generics1.genruntimeconfig.cache
+C:\Users\05357762252\Documents\cSharp\curso\77Generics1\obj\Debug\net7.0\ref\77Generics1.dll
