@@ -1,0 +1,15 @@
+C:\Users\05357762252\Documents\cSharp\curso\78Exercicio\bin\Debug\net7.0\78Exercicio.exe
+C:\Users\05357762252\Documents\cSharp\curso\78Exercicio\bin\Debug\net7.0\78Exercicio.deps.json
+C:\Users\05357762252\Documents\cSharp\curso\78Exercicio\bin\Debug\net7.0\78Exercicio.runtimeconfig.json
+C:\Users\05357762252\Documents\cSharp\curso\78Exercicio\bin\Debug\net7.0\78Exercicio.dll
+C:\Users\05357762252\Documents\cSharp\curso\78Exercicio\bin\Debug\net7.0\78Exercicio.pdb
+C:\Users\05357762252\Documents\cSharp\curso\78Exercicio\obj\Debug\net7.0\78Exercicio.csproj.AssemblyReference.cache
+C:\Users\05357762252\Documents\cSharp\curso\78Exercicio\obj\Debug\net7.0\78Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\05357762252\Documents\cSharp\curso\78Exercicio\obj\Debug\net7.0\78Exercicio.AssemblyInfoInputs.cache
+C:\Users\05357762252\Documents\cSharp\curso\78Exercicio\obj\Debug\net7.0\78Exercicio.AssemblyInfo.cs
+C:\Users\05357762252\Documents\cSharp\curso\78Exercicio\obj\Debug\net7.0\78Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\05357762252\Documents\cSharp\curso\78Exercicio\obj\Debug\net7.0\78Exercicio.dll
+C:\Users\05357762252\Documents\cSharp\curso\78Exercicio\obj\Debug\net7.0\refint\78Exercicio.dll
+C:\Users\05357762252\Documents\cSharp\curso\78Exercicio\obj\Debug\net7.0\78Exercicio.pdb
+C:\Users\05357762252\Documents\cSharp\curso\78Exercicio\obj\Debug\net7.0\78Exercicio.genruntimeconfig.cache
+C:\Users\05357762252\Documents\cSharp\curso\78Exercicio\obj\Debug\net7.0\ref\78Exercicio.dll
