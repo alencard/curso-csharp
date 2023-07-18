@@ -1,0 +1,15 @@
+C:\Users\05357762252\Documents\cSharp\curso\76IComparable\bin\Debug\net7.0\76IComparable.exe
+C:\Users\05357762252\Documents\cSharp\curso\76IComparable\bin\Debug\net7.0\76IComparable.deps.json
+C:\Users\05357762252\Documents\cSharp\curso\76IComparable\bin\Debug\net7.0\76IComparable.runtimeconfig.json
+C:\Users\05357762252\Documents\cSharp\curso\76IComparable\bin\Debug\net7.0\76IComparable.dll
+C:\Users\05357762252\Documents\cSharp\curso\76IComparable\bin\Debug\net7.0\76IComparable.pdb
+C:\Users\05357762252\Documents\cSharp\curso\76IComparable\obj\Debug\net7.0\76IComparable.csproj.AssemblyReference.cache
+C:\Users\05357762252\Documents\cSharp\curso\76IComparable\obj\Debug\net7.0\76IComparable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\05357762252\Documents\cSharp\curso\76IComparable\obj\Debug\net7.0\76IComparable.AssemblyInfoInputs.cache
+C:\Users\05357762252\Documents\cSharp\curso\76IComparable\obj\Debug\net7.0\76IComparable.AssemblyInfo.cs
+C:\Users\05357762252\Documents\cSharp\curso\76IComparable\obj\Debug\net7.0\76IComparable.csproj.CoreCompileInputs.cache
+C:\Users\05357762252\Documents\cSharp\curso\76IComparable\obj\Debug\net7.0\76IComparable.dll
+C:\Users\05357762252\Documents\cSharp\curso\76IComparable\obj\Debug\net7.0\refint\76IComparable.dll
+C:\Users\05357762252\Documents\cSharp\curso\76IComparable\obj\Debug\net7.0\76IComparable.pdb
+C:\Users\05357762252\Documents\cSharp\curso\76IComparable\obj\Debug\net7.0\76IComparable.genruntimeconfig.cache
+C:\Users\05357762252\Documents\cSharp\curso\76IComparable\obj\Debug\net7.0\ref\76IComparable.dll
