@@ -1,0 +1,15 @@
+C:\Users\05357762252\Documents\cSharp\curso\79GetHashCodeEEquals\bin\Debug\net7.0\79GetHashCodeEEquals.exe
+C:\Users\05357762252\Documents\cSharp\curso\79GetHashCodeEEquals\bin\Debug\net7.0\79GetHashCodeEEquals.deps.json
+C:\Users\05357762252\Documents\cSharp\curso\79GetHashCodeEEquals\bin\Debug\net7.0\79GetHashCodeEEquals.runtimeconfig.json
+C:\Users\05357762252\Documents\cSharp\curso\79GetHashCodeEEquals\bin\Debug\net7.0\79GetHashCodeEEquals.dll
+C:\Users\05357762252\Documents\cSharp\curso\79GetHashCodeEEquals\bin\Debug\net7.0\79GetHashCodeEEquals.pdb
+C:\Users\05357762252\Documents\cSharp\curso\79GetHashCodeEEquals\obj\Debug\net7.0\79GetHashCodeEEquals.csproj.AssemblyReference.cache
+C:\Users\05357762252\Documents\cSharp\curso\79GetHashCodeEEquals\obj\Debug\net7.0\79GetHashCodeEEquals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\05357762252\Documents\cSharp\curso\79GetHashCodeEEquals\obj\Debug\net7.0\79GetHashCodeEEquals.AssemblyInfoInputs.cache
+C:\Users\05357762252\Documents\cSharp\curso\79GetHashCodeEEquals\obj\Debug\net7.0\79GetHashCodeEEquals.AssemblyInfo.cs
+C:\Users\05357762252\Documents\cSharp\curso\79GetHashCodeEEquals\obj\Debug\net7.0\79GetHashCodeEEquals.csproj.CoreCompileInputs.cache
+C:\Users\05357762252\Documents\cSharp\curso\79GetHashCodeEEquals\obj\Debug\net7.0\79GetHashCodeEEquals.dll
+C:\Users\05357762252\Documents\cSharp\curso\79GetHashCodeEEquals\obj\Debug\net7.0\refint\79GetHashCodeEEquals.dll
+C:\Users\05357762252\Documents\cSharp\curso\79GetHashCodeEEquals\obj\Debug\net7.0\79GetHashCodeEEquals.pdb
+C:\Users\05357762252\Documents\cSharp\curso\79GetHashCodeEEquals\obj\Debug\net7.0\79GetHashCodeEEquals.genruntimeconfig.cache
+C:\Users\05357762252\Documents\cSharp\curso\79GetHashCodeEEquals\obj\Debug\net7.0\ref\79GetHashCodeEEquals.dll
