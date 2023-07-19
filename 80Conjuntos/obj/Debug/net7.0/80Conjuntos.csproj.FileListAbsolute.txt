@@ -1,0 +1,15 @@
+C:\Users\05357762252\Documents\cSharp\curso\80Conjuntos\bin\Debug\net7.0\80Conjuntos.exe
+C:\Users\05357762252\Documents\cSharp\curso\80Conjuntos\bin\Debug\net7.0\80Conjuntos.deps.json
+C:\Users\05357762252\Documents\cSharp\curso\80Conjuntos\bin\Debug\net7.0\80Conjuntos.runtimeconfig.json
+C:\Users\05357762252\Documents\cSharp\curso\80Conjuntos\bin\Debug\net7.0\80Conjuntos.dll
+C:\Users\05357762252\Documents\cSharp\curso\80Conjuntos\bin\Debug\net7.0\80Conjuntos.pdb
+C:\Users\05357762252\Documents\cSharp\curso\80Conjuntos\obj\Debug\net7.0\80Conjuntos.csproj.AssemblyReference.cache
+C:\Users\05357762252\Documents\cSharp\curso\80Conjuntos\obj\Debug\net7.0\80Conjuntos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\05357762252\Documents\cSharp\curso\80Conjuntos\obj\Debug\net7.0\80Conjuntos.AssemblyInfoInputs.cache
+C:\Users\05357762252\Documents\cSharp\curso\80Conjuntos\obj\Debug\net7.0\80Conjuntos.AssemblyInfo.cs
+C:\Users\05357762252\Documents\cSharp\curso\80Conjuntos\obj\Debug\net7.0\80Conjuntos.csproj.CoreCompileInputs.cache
+C:\Users\05357762252\Documents\cSharp\curso\80Conjuntos\obj\Debug\net7.0\80Conjuntos.dll
+C:\Users\05357762252\Documents\cSharp\curso\80Conjuntos\obj\Debug\net7.0\refint\80Conjuntos.dll
+C:\Users\05357762252\Documents\cSharp\curso\80Conjuntos\obj\Debug\net7.0\80Conjuntos.pdb
+C:\Users\05357762252\Documents\cSharp\curso\80Conjuntos\obj\Debug\net7.0\80Conjuntos.genruntimeconfig.cache
+C:\Users\05357762252\Documents\cSharp\curso\80Conjuntos\obj\Debug\net7.0\ref\80Conjuntos.dll
