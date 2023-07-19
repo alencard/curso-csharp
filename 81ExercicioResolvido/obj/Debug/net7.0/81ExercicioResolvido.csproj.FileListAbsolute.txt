@@ -1,0 +1,15 @@
+C:\Users\05357762252\Documents\cSharp\curso\81ExercicioResolvido\bin\Debug\net7.0\81ExercicioResolvido.exe
+C:\Users\05357762252\Documents\cSharp\curso\81ExercicioResolvido\bin\Debug\net7.0\81ExercicioResolvido.deps.json
+C:\Users\05357762252\Documents\cSharp\curso\81ExercicioResolvido\bin\Debug\net7.0\81ExercicioResolvido.runtimeconfig.json
+C:\Users\05357762252\Documents\cSharp\curso\81ExercicioResolvido\bin\Debug\net7.0\81ExercicioResolvido.dll
+C:\Users\05357762252\Documents\cSharp\curso\81ExercicioResolvido\bin\Debug\net7.0\81ExercicioResolvido.pdb
+C:\Users\05357762252\Documents\cSharp\curso\81ExercicioResolvido\obj\Debug\net7.0\81ExercicioResolvido.csproj.AssemblyReference.cache
+C:\Users\05357762252\Documents\cSharp\curso\81ExercicioResolvido\obj\Debug\net7.0\81ExercicioResolvido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\05357762252\Documents\cSharp\curso\81ExercicioResolvido\obj\Debug\net7.0\81ExercicioResolvido.AssemblyInfoInputs.cache
+C:\Users\05357762252\Documents\cSharp\curso\81ExercicioResolvido\obj\Debug\net7.0\81ExercicioResolvido.AssemblyInfo.cs
+C:\Users\05357762252\Documents\cSharp\curso\81ExercicioResolvido\obj\Debug\net7.0\81ExercicioResolvido.csproj.CoreCompileInputs.cache
+C:\Users\05357762252\Documents\cSharp\curso\81ExercicioResolvido\obj\Debug\net7.0\81ExercicioResolvido.dll
+C:\Users\05357762252\Documents\cSharp\curso\81ExercicioResolvido\obj\Debug\net7.0\refint\81ExercicioResolvido.dll
+C:\Users\05357762252\Documents\cSharp\curso\81ExercicioResolvido\obj\Debug\net7.0\81ExercicioResolvido.pdb
+C:\Users\05357762252\Documents\cSharp\curso\81ExercicioResolvido\obj\Debug\net7.0\81ExercicioResolvido.genruntimeconfig.cache
+C:\Users\05357762252\Documents\cSharp\curso\81ExercicioResolvido\obj\Debug\net7.0\ref\81ExercicioResolvido.dll
