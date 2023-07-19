@@ -1,0 +1,15 @@
+C:\Users\thith\OneDrive\programacao\back-end\cSharp\curso-csharp\82ExercicioProposto\bin\Debug\net7.0\82ExercicioProposto.exe
+C:\Users\thith\OneDrive\programacao\back-end\cSharp\curso-csharp\82ExercicioProposto\bin\Debug\net7.0\82ExercicioProposto.deps.json
+C:\Users\thith\OneDrive\programacao\back-end\cSharp\curso-csharp\82ExercicioProposto\bin\Debug\net7.0\82ExercicioProposto.runtimeconfig.json
+C:\Users\thith\OneDrive\programacao\back-end\cSharp\curso-csharp\82ExercicioProposto\bin\Debug\net7.0\82ExercicioProposto.dll
+C:\Users\thith\OneDrive\programacao\back-end\cSharp\curso-csharp\82ExercicioProposto\bin\Debug\net7.0\82ExercicioProposto.pdb
+C:\Users\thith\OneDrive\programacao\back-end\cSharp\curso-csharp\82ExercicioProposto\obj\Debug\net7.0\82ExercicioProposto.csproj.AssemblyReference.cache
+C:\Users\thith\OneDrive\programacao\back-end\cSharp\curso-csharp\82ExercicioProposto\obj\Debug\net7.0\82ExercicioProposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thith\OneDrive\programacao\back-end\cSharp\curso-csharp\82ExercicioProposto\obj\Debug\net7.0\82ExercicioProposto.AssemblyInfoInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\cSharp\curso-csharp\82ExercicioProposto\obj\Debug\net7.0\82ExercicioProposto.AssemblyInfo.cs
+C:\Users\thith\OneDrive\programacao\back-end\cSharp\curso-csharp\82ExercicioProposto\obj\Debug\net7.0\82ExercicioProposto.csproj.CoreCompileInputs.cache
+C:\Users\thith\OneDrive\programacao\back-end\cSharp\curso-csharp\82ExercicioProposto\obj\Debug\net7.0\82ExercicioProposto.dll
+C:\Users\thith\OneDrive\programacao\back-end\cSharp\curso-csharp\82ExercicioProposto\obj\Debug\net7.0\refint\82ExercicioProposto.dll
+C:\Users\thith\OneDrive\programacao\back-end\cSharp\curso-csharp\82ExercicioProposto\obj\Debug\net7.0\82ExercicioProposto.pdb
+C:\Users\thith\OneDrive\programacao\back-end\cSharp\curso-csharp\82ExercicioProposto\obj\Debug\net7.0\82ExercicioProposto.genruntimeconfig.cache
+C:\Users\thith\OneDrive\programacao\back-end\cSharp\curso-csharp\82ExercicioProposto\obj\Debug\net7.0\ref\82ExercicioProposto.dll

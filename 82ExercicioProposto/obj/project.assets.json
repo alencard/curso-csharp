@@ -8,23 +8,23 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\05357762252\\.nuget\\packages\\": {},
+    "C:\\Users\\thith\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\05357762252\\Documents\\cSharp\\curso\\82ExercicioProposto\\82ExercicioProposto.csproj",
+      "projectUniqueName": "C:\\Users\\thith\\OneDrive\\programacao\\back-end\\cSharp\\curso-csharp\\82ExercicioProposto\\82ExercicioProposto.csproj",
       "projectName": "82ExercicioProposto",
-      "projectPath": "C:\\Users\\05357762252\\Documents\\cSharp\\curso\\82ExercicioProposto\\82ExercicioProposto.csproj",
-      "packagesPath": "C:\\Users\\05357762252\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\05357762252\\Documents\\cSharp\\curso\\82ExercicioProposto\\obj\\",
+      "projectPath": "C:\\Users\\thith\\OneDrive\\programacao\\back-end\\cSharp\\curso-csharp\\82ExercicioProposto\\82ExercicioProposto.csproj",
+      "packagesPath": "C:\\Users\\thith\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\thith\\OneDrive\\programacao\\back-end\\cSharp\\curso-csharp\\82ExercicioProposto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\05357762252\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\thith\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }
