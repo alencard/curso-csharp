@@ -1,9 +1,12 @@
-﻿namespace _80Conjuntos
+﻿using _80Conjuntos.Entities;
+
+namespace _80Conjuntos
 {
     class Program
     {
         static void Main()
         {
+            /*
             SortedSet<int> set = new() { 10, 2, 4, 5, 6, 8, 0 };
             SortedSet<int> set2 = new() { 5, 6, 7, 8, 9, 10 };
 
@@ -30,6 +33,21 @@
                 Console.Write($"{item}, ");
             }
             Console.WriteLine();
+            */
+
+            HashSet<Product> a = new();
+            a.Add(new Product("TV", 900.0));
+            a.Add(new Product("Notebook", 1200.0));
+
+            HashSet<Point> b = new();
+            b.Add(new Point(3, 4));
+            b.Add(new Point(5, 10));
+
+            Product prod = new("TV", 900);
+            Console.WriteLine(a.Contains(prod));
+
+            Point point = new(3, 4);
+            Console.WriteLine(b.Contains(point));
         }
     }
 }
